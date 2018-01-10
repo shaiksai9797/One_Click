@@ -182,13 +182,13 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>inbasdpc08658-releases</name>
-        <url>http://localhost:8040/artifactory/Mvnrepo</url>
+        <name>INBASDPC08424-releases</name>
+        <url>http://localhost:8040/artifactory/Oneclick</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>inbasdpc08658-snapshots</name>
-        <url>http://localhost:8040/artifactory/Mvnrepo</url>
+        <name>INBASDPC08424-snapshots</name>
+        <url>http://localhost:8040/artifactory/Oneclick</url>
     </snapshotRepository>
 </distributionManagement>
 	<name>simple-web-app</name>
